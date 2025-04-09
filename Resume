@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <h1 style=text-align:center> Welcome to my Portfolio </h1>
+    <h1>Sai Kumar </h1>
+    <a href="">
+        <button>
+        Technical Skills
+        </button>
+    </a>
+    <a href="">
+        <button>
+            Professional Experience
+        </button>
+    </a>
+    <a href="">
+        <button>
+            Professional Summary
+        </button>
+    </a>
+
+    <h2>Summary:</h2>
+        <p>AWS DevOps Engineer with 2 years of experience in automating and improving essential deployments in AWS. Skilled in using continuous integration and delivery (CI/CD) to make deployments smoother, faster, and more reliable. Strong background in managing cloud resources effectively, optimizing costs, and minimizing downtime. Known for expertise with DevOps tools, improving efficiency and ensuring consistent, stable environments.</p>
+    <h2> Technical Skills: <h2>
+    <ul>    
+        <li>DevOps Tools: Git, GitHub, Jenkins, SonarQube, JFrog Artifactory </li>
+        <li>Containerization: Docker, Basic knowledge of Kubernetes </li>
+        <li>Infrastructure as Code (IaC): Terraform </li>
+        <li>Build & Automation Tools: Maven, Jenkins </li>
+        <li>Application Servers: Apache Tomcat </li>
+        <li>AWS Services: Mention the services you known </li>
+        <li>Programming/Scripting Languages: [e.g., Python, Shell scripting] </li>     
+    </ul>
+    <h2>Professional Summary</h2>
+    <ul>
+        <li>Set up Jenkins pipelines for automated builds, testing, and deployments, reducing release time.</li>
+	    <li>Deployed and managed Docker containers for application consistency across environments; used Dockerfiles to automate image creation and streamline deployments.</li>
+        <li>Leveraged Terraform for creating and managing AWS infrastructure, ensuring scalable and repeatable setups.</li>
+        <li>Maintained Git repositories, configured GitHub integrations with Jenkins for efficient code updates and deployment triggers.</li>
+        <li>Integrated SonarQube with Jenkins to monitor code quality and enforce best practices, leading to a reduction in code errors.</li>
+        <li>Implemented JFrog Artifactory for managing and versioning binaries, improving traceability and rollback efficiency.</li>
+        <li>Deployed and configured Apache Tomcat for application hosting and managed server configuration, logging, and tuning for optimized performance.</li>
+    </ul>
+    <h2>Professional Experience:</h2>
+        <p>Jr. DevOps Engineer - [Your Company Name] – [Location]
+            [Project Name here] [Month Year] – Present</p>
+        <h3>Roles and responsibilities:</h3>
+            <ul>
+                <li>Designed and configured Jenkins pipelines to automate build, test, and deployment processes, resulting in reduced manual intervention and faster releases.</li>
+                <li>Build and deployments under different environments starting from development to staging and other lower environments.</li>
+                <li>Integrated SonarQube for continuous code quality checks, which helped in reducing code defects and maintaining coding standards.</li>
+                <li>Set up JFrog Artifactory as a repository manager for storing and versioning builds, enabling efficient artifact management and rollback.</li>
+                <li>Collaborated with developers to manage Git repositories, maintain branching strategies, and resolve code conflicts.</li>
+                <li>Designed infrastructure as code (IaC) scripts in Terraform to automate AWS resource provisioning and configuration management.</li>
+                <li>Developed modular Terraform scripts to enable easy reusability and scalability across multiple environments.</li>
+                <li> Designed and wrote Dockerfiles for each microservice, automating the build and deployment process for a standardized environment.</li>
+                <li>Monitored container performance and managed scaling to ensure optimal application uptime.</li>
+                <li>Provided technical support to developers for resolving container-related issues. Tools: Docker, Docker Compose, JFrog Artifactory.</li>
+                <li>Collaborate with cross-functional teams, including developers, QA engineers, and system administrators, to ensure smooth deployment and operation of applications.</li>
+            </ul>
+    <h2>Education:</h2>
+        <p>Specialization: MCA from Osmania University, Hyderabad with 72 percent.</p>
+             
+    <h2>Certifications:</h2>
+        <p>AWS Certified Solutions Architect – Associate</p>
+
+    <h1>Declaration:</h1>
+        <p>I hereby declare that the above information is true to the best of my knowledge.</p>
+            
+
+                        
+
+</body>
+</html>
